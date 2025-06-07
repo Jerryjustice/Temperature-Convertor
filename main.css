@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(137, 43, 226, 0.228);
+  font-family: sans-serif;
+}
+h1 {
+  color: rgba(0, 0, 0, 0.445);
+}
+#textbox {
+  text-align: center;
+  width: 50%;
+  font-size: 200%;
+  border-radius: 6px;
+}
+form {
+  text-align: center;
+  margin: auto;
+  margin-top: 12%;
+  border: 2px solid rgba(0, 0, 0, 0.621);
+  padding: 25px;
+  max-width: 450px;
+  box-shadow: 5px 5px 15px;
+  font-weight: bold;
+  border-color: rgba(137, 43, 226, 0.228);
+}
+label {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+button {
+  font-size: 150%;
+  color: blue;
+  margin-bottom: 24px;
+  cursor: pointer;
+}
+#result {
+  font-weight: bold;
+  font-size: 1.5em;
+}
